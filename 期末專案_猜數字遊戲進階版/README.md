@@ -154,7 +154,7 @@ if __name__ == "__main__":
 ## 實機遊玩畫面
 1. ![image](https://github.com/jason940512/11328204/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E6%A1%88_%E7%8C%9C%E6%95%B8%E5%AD%97%E9%81%8A%E6%88%B2%E9%80%B2%E9%9A%8E%E7%89%88/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-01-13%20012911.png)
 2. ![image](https://github.com/jason940512/11328204/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E6%A1%88_%E7%8C%9C%E6%95%B8%E5%AD%97%E9%81%8A%E6%88%B2%E9%80%B2%E9%9A%8E%E7%89%88/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-01-13%20012821.png)
-3. ![image]()
+3. ![image](https://github.com/jason940512/11328204/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E6%A1%88_%E7%8C%9C%E6%95%B8%E5%AD%97%E9%81%8A%E6%88%B2%E9%80%B2%E9%9A%8E%E7%89%88/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-01-13%20012850.png)
 4. ![image]()
 ## 學習歷程
 1. **Python基礎運用**：
